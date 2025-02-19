@@ -29,7 +29,7 @@ Follow these links to take a look at the dashboards representing the analysis:
   https://public.tableau.com/app/profile/morena.messina/viz/dashboard1_17399809124650/Dashboard1?publish=yes
 - Under the average HRI and over the average PPR countries and Over the average HRI and under the average PPR countries
   https://public.tableau.com/app/profile/morena.messina/viz/dashboard2_17399813177420/Dashboard1?publish=yes
--Global trend for HRI and PF
+- Global trend for HRI and PF
   https://public.tableau.com/app/profile/morena.messina/viz/dashboard3_17399816274070/Dashboard1?publish=yes
 
 
