@@ -1,7 +1,7 @@
 # Human Rights and Freedom Analysis
 
 ## Analysis Purpose
-This analysis aims to examine whether the Human Rights Index and Press Freedom go hand in hand worldwide – which could indicate a correlation between the two indices – and whether the number of prisoners is directly or inversely proportional to this data.
+This analysis aims to examine whether the Human Rights Index (HRI) and Press Freedom (PF) go hand in hand worldwide – which could indicate a correlation between the two indices – and whether the Prison Population Rate (PPR) is directly or inversely proportional to this data.
 
 ## Available Datasets
 - Human Rights Index  https://ourworldindata.org/grapher/human-rights-index-vdem
