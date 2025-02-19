@@ -9,12 +9,12 @@ This analysis aims to examine whether the Human Rights Index (HRI) and Press Fre
 - Prison Population Rate: https://ourworldindata.org/grapher/prison-population-rate
 
 ## Objective
-The goal of this analysis is to investigate the relationship between the Human Rights Index, Press Freedom, and Prison Population Rate across different countries from 2000 to 2023.
+The goal of this analysis is to investigate the relationship between the Human Rights Index, Press Freedom, and Prison Population Rate across different countries from 2000 to recent years.
 
 ## Questions to Answer
 - Do the Human Rights Index, Press Freedom, and Prison Population Rate correlate strictly?
-- What was/were the worst year/s for each country from 2000 to 2016? And which year(s) were the worst for the most countries?
-- What is the growth or decrease percentage of Human Rights for each country from 2000 to 2016? And what is the average for Press Freedom?
+- What was/were the worst year/s for each country from 2000 to recent years? And which year(s) were the worst for the most countries?
+- What is the growth or decrease percentage of Human Rights for each country from 2000 to recent years? And what is the average for Press Freedom?
 
 ## Results & Conclusion
 Countries with higher Human Rights Index also have higher Press Freedom, suggesting a strong correlation between the two indices. However, the relationship with the Prison Population Rate is more complex. 
